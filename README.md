@@ -1,3 +1,4 @@
+
 # KRI Dashboard — Backend
 
 A production-ready Spring Boot REST API for managing **Key Risk Indicator (KRI)** records, with JWT authentication, Redis caching, email notifications, file attachments, and scheduled overdue alerts.
